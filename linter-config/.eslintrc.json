@@ -11,6 +11,11 @@
     "eslint:recommended",
     "plugin:react/recommended"
   ],
+  "ignorePatterns": [
+    "/*.js",
+    "/*.json",
+    "/dist/*.js"
+  ],
   "rules": {
     "semi": ["error", "always"],
     "quotes": ["error", "double"]
