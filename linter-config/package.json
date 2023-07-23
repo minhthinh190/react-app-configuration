@@ -1,7 +1,7 @@
 {
-  "name": "minimize-config",
+  "name": "linter-config",
   "version": "1.0.0",
-  "description": "Minimum configuration for React project",
+  "description": "Minimum ESLint configuration for React project",
   "main": "index.js",
   "license": "MIT",
   "scripts": {

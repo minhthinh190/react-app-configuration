@@ -1,7 +1,7 @@
 {
-  "name": "minimize-config",
+  "name": "typescript-config",
   "version": "1.0.0",
-  "description": "Minimum configuration for React project",
+  "description": "Minimum configuration for React TypeScript project",
   "main": "index.ts",
   "license": "MIT",
   "scripts": {
